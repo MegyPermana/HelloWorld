@@ -5,7 +5,7 @@ fun main() {
     println( groups.get(1) )
     println( "-----------------" )
 
-    groups[0] = "Group Satu"
+    groups[0] = "Group Satuu"
     groups.set(1, "Group Dua")
 
     println( groups[0] )
